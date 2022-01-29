@@ -1,3 +1,4 @@
 [submodule "blender"]
 	path = blender
 	url = https://github.com/Leandro-Bertoluzzi/blender.git
+	branch = blender2.7-custom

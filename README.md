@@ -1,11 +1,3 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Blender Git" />
-
-  &#xa0;
-
-  <!-- <a href="https://blendergit.netlify.app">Demo</a> -->
-</div>
-
 <h1 align="center">Blender custom bpy</h1>
 
 <p align="center">
@@ -35,12 +27,6 @@
 ## :dart: About ##
 
 This project shows how the source code of Blender can be modified to compile a personalized version of the software, and even build it as a Python package.
-
-## :sparkles: Features ##
-
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
 
 ## :rocket: Technologies ##
 
